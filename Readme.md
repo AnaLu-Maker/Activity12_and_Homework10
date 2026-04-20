@@ -28,6 +28,7 @@ Web application developed with Vue.js that displays a collection of Chuck Norris
 ├── DOCUMENTACION_Activity12_DAW.pdf # Project PDF, screenshot and documentation
 └── README.md # Project description
 
+
 ## Implementation Features
 
 ### 1. Vue Instance
